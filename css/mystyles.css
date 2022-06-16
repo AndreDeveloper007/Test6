@@ -1,0 +1,29 @@
+body {background-color: grey;
+    font-family: 'Trade Winds', cursive;}
+
+
+.imageone { 
+    width : 10%;
+    border: 5px dashed blue;
+}
+.imagetwo {width : 800px;
+    border: 5px dashed red;}
+
+img {width: 50%;
+height: 50%;}
+
+.largetext {
+    font-size: 60px;
+}
+.smalltext {
+    font-size: 4px;
+}
+
+p {font-family: 'Lato', sans-serif;}
+
+.test {background-color: crimson;}
+
+.center {
+    text-align: center;
+    color: red;
+  }
